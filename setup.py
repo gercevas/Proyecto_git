@@ -8,7 +8,7 @@ setup(
     install_requires=[],
     author="German Andres Cevallos",
     author_email="germanandrescevallos@gmail.com",
-    description="Una librería para manejo de temporizadores",
+    description="Una librería para manejo de tiempos",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/gercevas/Proyecto_git.git",
