@@ -1,0 +1,15 @@
+certifi==2025.4.26
+et_xmlfile==2.0.0
+iniconfig==2.1.0
+numpy==2.3.0
+openpyxl==3.1.5
+packaging==25.0
+pandas==2.3.0
+pluggy==1.6.0
+Pygments==2.19.1
+pytest==8.4.0
+python-dateutil==2.9.0.post0
+pytz==2025.2
+six==1.17.0
+-e git+https://github.com/gercevas/Proyecto_git.git@d9f5c9cc590eff75ce24219525992417dc4e4418#egg=temporizador
+tzdata==2025.2
